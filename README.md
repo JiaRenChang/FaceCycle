@@ -31,11 +31,30 @@ We use linear protocol to evaluate learnt representations for emotion recognitio
 | [TCAE](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf) | 45.05 % | 65.32 % |
 | [BMVC’20](https://www.bmvc2020-conference.com/assets/papers/0861.pdf) | 47.61 % | 58.86 % |
 
+#### Head  pose  regression
+
+#### Person recognition
+
+#### Frontalization
+
+#### Image-to-image Translation
+
 ## Usage
 
 ### Download Pretrained Model
 
+coming soooooooooooooon
+
 ### Test translation
+
+```
+python test_translation.py --loadmodel (pretrained model) \
+```
+
+and you can get like below
+
+<img align="center" src="https://github.com/JiaRenChang/FaceCycle/blob/master/Test_translation/translation0.png">
+
 
 ## Contacts
 followwar@gmail.com
