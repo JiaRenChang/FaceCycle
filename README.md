@@ -15,17 +15,21 @@ In this work, we introduce cycle-consistency in facial characteristics as free s
 <img align="center" src="https://user-images.githubusercontent.com/11732099/128152906-4ebc6711-7fc0-431a-9145-4b2c7f12a7fb.png">
 
 ## Results
+
 #### More visualization
+
 <img align="center" src="https://user-images.githubusercontent.com/11732099/128154030-7936207d-a8f2-4a57-80e2-f5565515de00.png">
+
 #### Emotion recognition
+
 We use linear protocol to evaluate learnt representations for emotion recognition. We report accuracy (%) for two dataset.
 
 | Method | FER-2013 | RAF-DB |
 |---|---|---|
 | Ours | 48.76 % | 71.01 % |
 | [FAb-Net](https://arxiv.org/abs/1808.06882) | 46.98 % | 66.72 % |
-| [TCAE](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf) | 2.87 % | 2.61 % |
-| [BMVC’20](https://www.bmvc2020-conference.com/assets/papers/0861.pdf) | 3.89 % | 3.33 % |
+| [TCAE](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf) | 45.05 % | 65.32 % |
+| [BMVC’20](https://www.bmvc2020-conference.com/assets/papers/0861.pdf) | 47.61 % | 58.86 % |
 
 ## Usage
 
