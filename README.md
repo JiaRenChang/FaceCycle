@@ -41,6 +41,12 @@ We use linear protocol to evaluate learnt representations for emotion recognitio
 
 ## Usage
 
+### From Others
+
+Thanks to all the authors of these awesome repositories.
+[SSIM](https://github.com/Po-Hsun-Su/pytorch-ssim)
+[Optical Flow Visualization](https://github.com/tomrunia/OpticalFlow_Visualization)
+
 ### Download Pretrained Model
 
 coming soooooooooooooon
