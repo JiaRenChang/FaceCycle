@@ -33,11 +33,34 @@ We use linear protocol to evaluate learnt representations for emotion recognitio
 
 #### Head  pose  regression
 
+We use linear regression to evaluate learnt representations for head pose regression.
+
+| Method | Yaw | Pitch | Roll |
+|---|---|---|---|
+| Ours | 11.70 | 12.76 | 12.94 |
+| [FAb-Net](https://arxiv.org/abs/1808.06882) | 13.92 | 13.25 | 14.51 |
+| [TCAE](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf) | 21.75 | 14.57 | 14.83 |
+| [BMVC’20](https://www.bmvc2020-conference.com/assets/papers/0861.pdf) | 22.06 | 13.50 | 15.14 |
+
+
 #### Person recognition
+
+We directly adopt learnt representation for person recognition.
+
+| Method | LFW | CPLFW |
+|---|---|---|
+| Ours | 73.72 % | 58.52 % |
+| [VGG-like](https://arxiv.org/abs/1803.01260) | 71.48 % | - |
+| LBP | 56.90 % | 51.50 % |
+| HoG | 62.73 % | 51.73 % |
 
 #### Frontalization
 
+
+
 #### Image-to-image Translation
+
+
 
 ## Usage
 
