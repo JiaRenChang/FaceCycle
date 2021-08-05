@@ -90,6 +90,17 @@ and you can get like below
 
 <img align="center" src="https://github.com/JiaRenChang/FaceCycle/blob/master/Test_translation/translation0.png">
 
+### Replicate RAF-DB results
+
+Download pretrained model and [RAF-DB](http://www.whdeng.cn/RAF/model1.html)
+
+```
+python RAF_classify.py --loadmodel (pretrained model) \
+                       --datapath (your RAF dataset path) \
+                       --savemodel (your path for saving)
+```
+
+You can get around 70~71% accuracy with basic emotion classification (7 categories) using linear protocol.
 
 ## Contacts
 followwar@gmail.com
