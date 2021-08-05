@@ -78,7 +78,7 @@ Thanks to all the authors of these awesome repositories.
 
 ### Download Pretrained Model
 
-coming soooooooooooooon
+[Google Drive](https://drive.google.com/file/d/1dDuXLyn3AFclGos-Ku2geMBWE2v4a2Y9/view?usp=sharing)
 
 ### Test translation
 
