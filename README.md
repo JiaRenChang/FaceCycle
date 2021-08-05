@@ -100,7 +100,7 @@ python RAF_classify.py --loadmodel (pretrained model) \
                        --savemodel (your path for saving)
 ```
 
-You can get around 70~71% accuracy with basic emotion classification (7 categories) using linear protocol.
+You can get 70~71% accuracy with basic emotion classification (7 categories) using linear protocol.
 
 ## Contacts
 followwar@gmail.com
