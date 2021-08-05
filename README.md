@@ -56,10 +56,16 @@ We directly adopt learnt representation for person recognition.
 
 #### Frontalization
 
+The frontalization results from LFW dataset. 
+
+<img align="center" src="https://user-images.githubusercontent.com/11732099/128305185-0020f0b8-7a90-4394-b71d-35a95a05bec2.png">
 
 
 #### Image-to-image Translation
 
+The image-to-image translation results. 
+
+<img align="center" src="https://user-images.githubusercontent.com/11732099/128305387-fbd9c7c6-6431-43c1-9109-9e766d065cda.png">
 
 
 ## Usage
