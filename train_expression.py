@@ -19,11 +19,11 @@ from models import *
 from Loss import *
 
 parser = argparse.ArgumentParser(description='FaceCycle')
-parser.add_argument('--datapath', default='./dataloader/Vox1.txt',
+parser.add_argument('--datapath', default='./dataloader/Vox.txt',
                     help='datapath')
 parser.add_argument('--epochs', type=int, default=40,
                     help='number of epochs to train')
-parser.add_argument('--loadmodel', default= '/media/jiaren/DataSet/FaceCycle/ExpCode/ExpCode_4.tar',
+parser.add_argument('--loadmodel', default= '',
                     help='load model')
 parser.add_argument('--savemodel', default='/media/jiaren/DataSet/FaceCycle/ExpCode/',
                     help='save model')                    
