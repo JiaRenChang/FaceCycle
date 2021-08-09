@@ -19,7 +19,7 @@ from models import *
 from Loss import *
 
 parser = argparse.ArgumentParser(description='FaceCycle')
-parser.add_argument('--datapath', default='./dataloader/Vox.txt',
+parser.add_argument('--datapath', default='./dataloader/Voxall.txt',
                     help='datapath')
 parser.add_argument('--epochs', type=int, default=40,
                     help='number of epochs to train')
