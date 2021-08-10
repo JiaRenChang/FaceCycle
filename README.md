@@ -2,6 +2,8 @@
 
 This repository contains the code for our ICCV2021 paper by Jia-Ren Chang, Yong-Sheng Chen, and Wei-Chen Chiu.
 
+[Paper Arxiv Link](https://arxiv.org/pdf/2108.03427.pdf)
+
 ## Contents
 
 1. [Introduction](#introduction)
